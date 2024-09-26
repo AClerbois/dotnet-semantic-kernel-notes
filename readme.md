@@ -26,6 +26,10 @@ git clone  https://github.com/AClerbois/dotnet-semantic-kernel-notes.git
 
 - Visual Studio or any other C# IDE
 
+> Set variable in powershell : 
+> ```pwsh
+> $Env:AI:Bing:Key = "blablabla"
+> ```
 
 ## Building the Project
 
